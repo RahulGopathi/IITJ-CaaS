@@ -1,13 +1,21 @@
-# Cab Management System
+# Container as a Service (CaaS) User Interface
 
-An application with react and django for cab management system
+This project provides a user-friendly interface for Container as a Service (CaaS), leveraging Kubernetes (K8s) APIs to perform CRUD operations on resources. The aim of the project is to make bare metal resources accessible to everyone in the form of containers.
+
+## Project Goals:
+
+- **Accessibility:** Offer bare metal resources as containers using Kubernetes under the hood.
+- **User-Friendly Deployment:** Allow users without container knowledge to deploy their static sites directly from GitHub/GitLab.
+- **Advanced Container Management:** Enable users with container knowledge to manage and experiment with containers.
+
+Whether you are a beginner looking to deploy a static site or an experienced developer wanting to play with containers, this project simplifies the process and empowers you to harness the power of Kubernetes.
 
 ## Steps to run locally
 
 - Clone this repository and launch code:
     ```
-    git clone https://github.com/RahulGopathi/Cab-Management-System.git
-    cd Cab-Management-System
+    git clone https://github.com/RahulGopathi/IITJ-CaaS.git
+    cd IITJ-CaaS
     code .
     ```
 
